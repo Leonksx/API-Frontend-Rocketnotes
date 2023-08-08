@@ -3,7 +3,7 @@ import {Container, Links, Content} from './styles';
 import {useParams, useNavigate} from 'react-router-dom';
 
 import {Tag} from '../../components/Tag';
-import {Button} from '../../components/button';
+import {Button} from '../../components/Button';
 import {Header} from '../../components/Header';
 import {Section} from '../../components/Section';
 import {ButtonText} from '../../components/ButtonText';
